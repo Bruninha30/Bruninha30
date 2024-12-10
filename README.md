@@ -10,6 +10,8 @@
 ### Contato:
 - [linkedin] (www.linkedin.com/in/brunadesenvolvedora)  
 - 📩 brunps@3008Gmail.com
+
+
 [![Bruninha30's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Bruninha30&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Bruninha30/github-readme-stats#gh-light-mode-only)
 
 <div style="display: inline_block"><br>
