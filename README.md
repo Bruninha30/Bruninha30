@@ -1,9 +1,15 @@
 ### Hello! Word(Olá! Mundo) 👋
 ### Olá! Eu sou Bruna Santos
 
-- 🔭 formada em Análise e Desenvolvimento de Sistemas
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas.
+- 🌟 Apaixonada por tecnologia e design, buscando meu primeiro emprego na área de Front-End.
+- 📚 Atualmente estudando HTML, CSS, JavaScript, React  na DNC. 
+- 📚 Marketing Digital na Escola Aprendiz Digital.
+- 🚀 Focada em criar soluções criativas e aprender continuamente.
 
-[![Bruninha30's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Bruninha30&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Bruninha30/github-readme-stats#gh-dark-mode-only)
+### Contato:
+- [linkedin] (www.linkedin.com/in/brunadesenvolvedora)  
+- 📩 brunps@3008Gmail.com
 [![Bruninha30's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Bruninha30&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Bruninha30/github-readme-stats#gh-light-mode-only)
 
 <div style="display: inline_block"><br>
