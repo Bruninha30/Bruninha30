@@ -1,14 +1,24 @@
-### Hello! Word(Olá! Mundo) 👋
-### Olá! Eu sou Bruna Santos
+# Olá! Eu sou a Bruna!  
 
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas.
-- 🌟 Apaixonada por tecnologia e design, buscando meu primeiro emprego na área de Front-End.
-- 📚 Atualmente estudando HTML, CSS, JavaScript, React  na DNC. 
-- 📚 Marketing Digital na Escola Aprendiz Digital.
-- 🚀 Focada em criar soluções criativas e aprender continuamente.
+🗨 Sobre mim
+🎨 Apaixonada por Design e Desenvolvimento Web!  
+🧑🏻‍🎓 Sou graduanda em Análise e Desenvolvimento de Sistemas e estou em constante aprendizado, com foco no desenvolvimento de soluções tecnológicas e estratégias de marketing digital. Atualmente, estou aprofundando meus conhecimentos através de cursos na DNC, onde estou desenvolvendo habilidades em front-end e UX/UI design.
+👨🏻‍💻 Tenho experiência no desenvolvimento de interfaces responsivas utilizando HTML5, CSS3, JavaScript, além de ferramentas como Figma para design de UX/UI. Também possuo experiência com Canva para criação de materiais visuais impactantes.
+🚀 Meu objetivo é continuar evoluindo na área de TI e marketing digital, criando soluções inovadoras e contribuindo para o crescimento de negócios de forma eficiente e contínua.
+
+💻 Tech Stack
+Linguagens: HTML5, CSS3, JavaScript, React
+Design e Prototipagem: Figma, Canva, 
+Ferramentas de Desenvolvimento: Git, GitHub, Visual Studio Code
+Gerenciamento de Projetos: Trello
+Marketing Digital: Instagram, Facebook Ads.
+Cursos: DNC - Desenvolvedor Front End
+
+
+
 
 ### Contato:
-- [linkedin] (www.linkedin.com/in/brunadesenvolvedora)  
+- 🌎 [Meu LinkedIn](www.linkedin.com/in/brunadesenvolvedora)
 - 📩 brunps@3008gmail.com
 
 
