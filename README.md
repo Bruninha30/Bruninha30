@@ -1,6 +1,7 @@
 # Olá! Eu sou a Bruna!  
 
 🗨 Sobre mim
+
 🎨 Apaixonada por Design e Desenvolvimento Web!  
 🧑🏻‍🎓 Sou graduanda em Análise e Desenvolvimento de Sistemas e estou em constante aprendizado, com foco no desenvolvimento de soluções tecnológicas e estratégias de marketing digital. Atualmente, estou aprofundando meus conhecimentos através de cursos na DNC, onde estou desenvolvendo habilidades em front-end e UX/UI design.
 👨🏻‍💻 Tenho experiência no desenvolvimento de interfaces responsivas utilizando HTML5, CSS3, JavaScript, além de ferramentas como Figma para design de UX/UI. Também possuo experiência com Canva para criação de materiais visuais impactantes.
